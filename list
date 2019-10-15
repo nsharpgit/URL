@@ -12,3 +12,6 @@ https://www.centos.org/forums/viewtopic.php?t=50634
 kerberos
 https://www.petri.com/how-to-use-setspn-to-set-active-directory-service-principal-names-2
 https://www.ibm.com/support/knowledgecenter/SSEQTP_8.5.5/com.ibm.websphere.base.iseries.doc/ae/tsec_SPNEGO_adm.html
+
+Good site:
+https://imatviyenko.github.io/blog/2018/09/11/Apache-AD-kerberos#fn:1
